@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wollongong-housing/static/css/main.d7b8ff68.css",
+    "main.js": "/wollongong-housing/static/js/main.077c17f0.js",
+    "index.html": "/wollongong-housing/index.html",
+    "main.d7b8ff68.css.map": "/wollongong-housing/static/css/main.d7b8ff68.css.map",
+    "main.077c17f0.js.map": "/wollongong-housing/static/js/main.077c17f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7b8ff68.css",
+    "static/js/main.077c17f0.js"
+  ]
+}
