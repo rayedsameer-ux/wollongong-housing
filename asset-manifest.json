@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wollongong-housing/static/css/main.a22cd025.css",
-    "main.js": "/wollongong-housing/static/js/main.0ddb8e3b.js",
+    "main.js": "/wollongong-housing/static/js/main.77becd1e.js",
     "index.html": "/wollongong-housing/index.html",
     "main.a22cd025.css.map": "/wollongong-housing/static/css/main.a22cd025.css.map",
-    "main.0ddb8e3b.js.map": "/wollongong-housing/static/js/main.0ddb8e3b.js.map"
+    "main.77becd1e.js.map": "/wollongong-housing/static/js/main.77becd1e.js.map"
   },
   "entrypoints": [
     "static/css/main.a22cd025.css",
-    "static/js/main.0ddb8e3b.js"
+    "static/js/main.77becd1e.js"
   ]
 }
